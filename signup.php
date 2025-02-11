@@ -63,7 +63,7 @@ if (isset($_POST["btnsubmit"])) {
     <div class="left-section">
         <div class="logo-section">
             <div class="logo-text">
-                CodeLab <span class="code-symbol">&lt;/&gt;</span>
+                Execute <span class="code-symbol">&lt;/&gt;</span>
             </div>
             <div class="tagline">Unlock Your Potential, One Line Of Code at a Time</div>
         </div>

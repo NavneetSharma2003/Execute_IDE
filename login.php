@@ -195,7 +195,7 @@
         <div class="left-section">
             <div class="logo-section">
                 <div class="logo-text">
-                    CodeLab <span class="code-symbol">&lt;/&gt;</span>
+                    Execute <span class="code-symbol">&lt;/&gt;</span>
                 </div>
                 <div class="tagline">Unlock Your Potential, One Line Of Code at a Time</div>
             </div>
@@ -223,7 +223,7 @@
                     </div>
                 </div>
                 <div class="signup-link">
-                    Or create a new account - <a href="#">Signup</a>
+                    Or create a new account - <a href="signup.php">Signup</a>
                 </div>
             </form>
         </div>

@@ -160,8 +160,7 @@
         <div class="nav-links">
             <a href="#">Home</a>
             <a href="#">About</a>
-            <a href="#">Let's Code</a>
-            <a href="#">Login/Sign-up</a>
+            <a href="signup.php">Login/Sign-up</a>
         </div>
         <div class="user-profile"><img src="res/profile_icon.svg" alt=""></div>
     </nav>
