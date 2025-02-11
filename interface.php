@@ -127,20 +127,20 @@
             border-right: 2px solid #ccc;
         }
         
-        .output-section {
-            flex: 1;
+        .output-section { 
+            flex: 2;
             display: flex;
             flex-direction: column;
             gap: 10px;
-        }
+         }
 
-        .input-box,
         .output-box {
             border: 1px solid #ccc;
             border-radius: 10px;
             background-color: white;
-            height: 50%;
+            height: 100%;
             padding: 10px;
+            border: 1px solid;
         }
 
         .section-title {
@@ -188,9 +188,6 @@
     <div class="main-content">
         <textarea name="" class="code-area" id="code-area"></textarea>
         <div class="output-section">
-            <div class="input-box">
-                <div class="section-title" id="input-section" >INPUT :</div>
-            </div>
             <div class="output-box">
                 <div class="section-title" id="output-section" >OUTPUT :</div>
             </div>
